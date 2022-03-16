@@ -1,0 +1,15 @@
+C:\Users\MEDROOM26\source\repos\GenericApi\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\MEDROOM26\source\repos\GenericApi\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEDROOM26\source\repos\GenericApi\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\MEDROOM26\source\repos\GenericApi\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\MEDROOM26\source\repos\GenericApi\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\MEDROOM26\source\repos\GenericApi\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\MEDROOM26\source\repos\GenericApi\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\MEDROOM26\source\repos\GenericApi\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\MEDROOM26\source\repos\GenericApi\Service\bin\Debug\netcoreapp3.1\ModelContext.dll
+C:\Users\MEDROOM26\source\repos\GenericApi\Service\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\MEDROOM26\source\repos\GenericApi\Service\bin\Debug\netcoreapp3.1\ModelContext.pdb
+C:\Users\MEDROOM26\source\repos\GenericApi\Service\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\MEDROOM26\source\repos\GenericApi\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\MEDROOM26\source\repos\GenericApi\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\MEDROOM26\source\repos\GenericApi\Service\obj\Debug\netcoreapp3.1\Service.pdb

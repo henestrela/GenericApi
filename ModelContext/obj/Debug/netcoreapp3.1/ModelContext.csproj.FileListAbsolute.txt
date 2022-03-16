@@ -1,0 +1,13 @@
+C:\Users\MEDROOM26\source\repos\GenericApi\ModelContext\obj\Debug\netcoreapp3.1\ModelContext.csproj.AssemblyReference.cache
+C:\Users\MEDROOM26\source\repos\GenericApi\ModelContext\obj\Debug\netcoreapp3.1\ModelContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEDROOM26\source\repos\GenericApi\ModelContext\obj\Debug\netcoreapp3.1\ModelContext.AssemblyInfoInputs.cache
+C:\Users\MEDROOM26\source\repos\GenericApi\ModelContext\obj\Debug\netcoreapp3.1\ModelContext.AssemblyInfo.cs
+C:\Users\MEDROOM26\source\repos\GenericApi\ModelContext\obj\Debug\netcoreapp3.1\ModelContext.csproj.CoreCompileInputs.cache
+C:\Users\MEDROOM26\source\repos\GenericApi\ModelContext\bin\Debug\netcoreapp3.1\ModelContext.deps.json
+C:\Users\MEDROOM26\source\repos\GenericApi\ModelContext\bin\Debug\netcoreapp3.1\ModelContext.dll
+C:\Users\MEDROOM26\source\repos\GenericApi\ModelContext\bin\Debug\netcoreapp3.1\ModelContext.pdb
+C:\Users\MEDROOM26\source\repos\GenericApi\ModelContext\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\MEDROOM26\source\repos\GenericApi\ModelContext\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\MEDROOM26\source\repos\GenericApi\ModelContext\obj\Debug\netcoreapp3.1\ModelContext.csproj.CopyComplete
+C:\Users\MEDROOM26\source\repos\GenericApi\ModelContext\obj\Debug\netcoreapp3.1\ModelContext.dll
+C:\Users\MEDROOM26\source\repos\GenericApi\ModelContext\obj\Debug\netcoreapp3.1\ModelContext.pdb
