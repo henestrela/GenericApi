@@ -20,7 +20,7 @@ namespace GenericApi.Config
             var typeAdapterConfig = TypeAdapterConfig.GlobalSettings;
 
             IEnumerable<System.Reflection.Assembly> assemblies = AppDomain.CurrentDomain.GetAssemblies().Where(a => a.FullName != null && (
-            a.FullName.StartsWith("MedRoom.DTO")));
+            a.FullName.StartsWith("Service.DTO")));
 
 
             //MethodInfo method = typeof(ICustomMapperDTO).GetMethod("AutomapperConfig");
@@ -31,7 +31,7 @@ namespace GenericApi.Config
             {
                 List<Type> theList = assembly.GetTypes()
                      .Where(t => (
-                     t.Namespace.Contains("MedRoom.DTO")) &&
+                     t.Namespace.Contains("Service.DTO")) &&
                      t.GetInterfaces().Any(x => x == typeof(IBaseIdDTO) || x == typeof(ICustomMapperDTO) || x == typeof(IBaseDTO) ||
                                       (x.IsGenericType &&
                                        (x.GetGenericTypeDefinition() == typeof(IBaseIdDTO) || x.GetGenericTypeDefinition() == typeof(ICustomMapperDTO)))))
